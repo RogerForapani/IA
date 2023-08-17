@@ -1,2 +1,2 @@
 # IA
-It's a Artificial Neural Network that learn a simple logic gate
+It's a Artificial Neural Network that learn a simple logic gate XOR
